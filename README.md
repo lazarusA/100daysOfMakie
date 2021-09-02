@@ -11,4 +11,4 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 
 2. Scatters, bubbles
 
-<p align="center"><a href="./src/scatter_bubbles_code.jl"> <img src="./img/scatter_bubbles_code.svg"> </a> <img src="./img/scatter_bubbles.png"></p>
+<p align="center"><a href="./src/scatter_bubbles_code.jl"> <img src="./img/scatter_bubbles_code.svg"> </a> <img src="./img/scatter_bubbles.png" width = "500"></p>
