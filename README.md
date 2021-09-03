@@ -12,3 +12,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 2. Scatters, bubbles
 
 <p align="center"><a href="./src/scatter_bubbles_code.jl"> <img src="./img/scatter_bubbles_code.svg"> </a> <img src="./img/scatter_bubbles.png" width = "500"></p>
+
+3. Scatterlines, archimedes_spiral
+
+<p align="center"><a href="./src/scatterlines_archimedes_spiral.jl"> <img src="./img/scatterlines_archimedes_spiral_code.svg"> </a> <img src="./img/scatterlines_archimedes_spiral.png" width = "500"></p>
