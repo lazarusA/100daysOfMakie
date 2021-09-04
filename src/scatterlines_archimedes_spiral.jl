@@ -7,7 +7,7 @@ with_theme(theme_dark()) do
     fig = Figure(resolution = (600,400))
     ax = Axis(fig[1,1]; aspect = DataAspect(), xlabel = "x", ylabel = "y")
     for (k,i) in enumerate(-4:-2)
-        scatterlines!(x.(t; b = i), y.(t; b = i), color = 1:n, 
+        scatterlines!(x.(t; b = i), y.(t; b = i); color = 1:n, 
       	colormap = (:Spectral_11, 0.5), markercolor = 1:n,
       	markersize = LinRange(3,30/k,n), markercolormap = :Spectral)
     end

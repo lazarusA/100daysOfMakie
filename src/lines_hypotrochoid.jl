@@ -9,4 +9,5 @@ with_theme(theme_dark()) do
     [lines!(x.(t), y.(t); color = ("#08F7FE", 0.08), linewidth = 1 + 0.8*i) 
         for i in 1:13]
     save("lines_hypotrochoid.png", fig, px_per_unit = 2)
+    display(fig)
 end

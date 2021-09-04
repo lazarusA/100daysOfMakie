@@ -9,4 +9,5 @@ with_theme(theme_dark()) do
         strokecolor = :white, axis = (; xlabel = "x", ylabel = "y"), 
         figure = (; resolution = (600,400)))
     save("scatter_bubbles.png", fig, px_per_unit = 2)
+    display(fig)
 end
