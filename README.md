@@ -19,4 +19,4 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 
 4. Linesegments
 
-<p align="center"><a href="./src/Linesegments.jl"> <img src="./img/Linesegments_code.svg"> </a> <img src="./img/Linesegments.png" width = "500"></p>
+<p align="center"><a href="./src/linesegments.jl"> <img src="./img/linesegments_code.svg"> </a> <img src="./img/linesegments.png" width = "500"></p>
