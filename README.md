@@ -1,9 +1,10 @@
 # 100daysOfMakie
-100 days of Makie examples.
+100 days of Makie examples. And now that you are here, check also [Beautiful Makie](https://lazarusa.github.io/BeautifulMakie/).
 
 Want to know more about data science, `Julia` and `Makie`? Checkout the [upcoming book](https://github.com/JuliaDataScience/JuliaDataScience) [Julia Data Science](https://juliadatascience.io).
 
 Plotting scripts written with Makie and formatted with [Carbon](https://carbon.now.sh).
+
 
 1. Lines, hypotrochoid curve
 
