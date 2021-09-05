@@ -20,3 +20,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 4. Linesegments
 
 <p align="center"><a href="./src/linesegments.jl"> <img src="./img/linesegments_code.svg"> </a> <img src="./img/linesegments.png" width = "500"></p>
+
+4. Polygons, ngons
+
+<p align="center"><a href="./src/polygons.jl"> <img src="./img/polygons_code.svg"> </a> <img src="./img/polygons.svg" width = "500"></p>
