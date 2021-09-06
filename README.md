@@ -25,3 +25,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 5. Polygons, ngons
 
 <p align="center"><a href="./src/polygons.jl"> <img src="./img/polygons_code.svg"> </a> <img src="./img/polygons.svg" width = "500"></p>
+
+6. Barplot
+
+<p align="center"><a href="./src/barplot.jl"> <img src="./img/barplot_code.svg"> </a> <img src="./img/barplot.svg" width = "500"></p>
