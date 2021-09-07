@@ -30,6 +30,6 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 
 <p align="center"><a href="./src/barplot.jl"> <img src="./img/barplot_code.svg"> </a> <img src="./img/barplot.svg" width = "500"></p>
 
-6. Stairs
+7. Stairs
 
 <p align="center"><a href="./src/stairs.jl"> <img src="./img/stairs_code.svg"> </a> <img src="./img/stairs.svg" width = "500"></p>
