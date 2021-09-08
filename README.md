@@ -33,3 +33,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 7. Stairs
 
 <p align="center"><a href="./src/stairs.jl"> <img src="./img/stairs_code.svg"> </a> <img src="./img/stairs.svg" width = "500"></p>
+
+8. Series
+
+<p align="center"><a href="./src/series.jl"> <img src="./img/series_code.svg"> </a> <img src="./img/series.svg" width = "500"></p>
