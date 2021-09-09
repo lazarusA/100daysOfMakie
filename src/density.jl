@@ -1,4 +1,4 @@
-using CairoMakie, Random
+using CairoMakie, Distributions, Random
 Random.seed!(124)
 colors = ["#FF410D", "#6EE2FF", "#F7C530", "#95CC5E", "#D0DFE6", "#F79D1E"]
 μσpairs = [[2,0.5], [-1,2], [0.25,1], [1,0.1], [1, 0.05], [1.2,0.1]]
