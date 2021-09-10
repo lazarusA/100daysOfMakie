@@ -41,3 +41,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 9. Density
 
 <p align="center"><a href="./src/density.jl"> <img src="./img/density_code.svg"> </a> <img src="./img/density.svg" width = "500"></p>
+
+9. Histograms
+
+<p align="center"><a href="./src/hist.jl"> <img src="./img/hist_code.svg"> </a> <img src="./img/hist.svg" width = "500"></p>
