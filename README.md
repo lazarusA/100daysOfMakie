@@ -49,3 +49,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 11. Violins
 
 <p align="center"><a href="./src/violin.jl"> <img src="./img/violin_code.svg"> </a> <img src="./img/violin.svg" width = "500"></p>
+
+12. Boxplot
+
+<p align="center"><a href="./src/boxplot.jl"> <img src="./img/boxplot_code.svg"> </a> <img src="./img/boxplot.svg" width = "500"></p>
