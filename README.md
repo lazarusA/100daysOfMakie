@@ -5,10 +5,20 @@ Want to know more about data science, `Julia` and `Makie`? Checkout the [upcomin
 
 Plotting scripts written with Makie and formatted with [Carbon](https://carbon.now.sh).
 
-| --------------- | --------------- | --------------- |
-|[Lines, hypotrochoid curve](#1-lines-hypotrochoid-curve) | ... | ... |
-|[Scatters, bubbles](#2-scatters-bubbles) | ... | ... |
-|[Scatters, bubbles](#3-scatterlines-archimedes-spiral)| ... | ... |
+|   |   |   |
+|---|---|---|
+|[Lines, hypotrochoid curve](#1-lines-hypotrochoid-curve)|   |   |
+|[Scatters, bubbles](#2-scatters-bubbles)   |   |   |
+|[Scatterlines, archimedes spiral](#3-scatterlines-archimedes-spiral)|   |   |
+|[Linesegments](#4-linesegments)|   |   |
+|[Polygons, ngons](#5-polygons-ngons)|   |   |
+|[Barplot](#6-barplot)|   |   |
+|[Stairs](#7-stairs)|   |   |
+|[Series](#8-series)|   |   |
+|[Density](#9-density)|   |   |
+|[Histograms](#10-histograms)|   |   |
+|[Violins](#11-violins)|   |   |
+|[Boxplot](#12-boxplot)|   |   |
 
 ## 1. Lines, hypotrochoid curve
 
