@@ -20,6 +20,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Violins](#11-violins)|   |   |
 |[Boxplot](#12-boxplot)|   |   |
 |[Band, confidence interval](#13-band-confidence-interval)|   |   |
+|[Barplot and errorbars](#14-barplot-and-errorbars)|   |   |
 
 ## 1. Lines, hypotrochoid curve
 
@@ -72,3 +73,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 13. Band, confidence interval
 
 <p align="center"><a href="./src/band.jl"> <img src="./img/band_code.svg"> </a> <img src="./img/band.svg" width = "500"></p>
+
+## 14. Barplot and errorbars
+
+<p align="center"><a href="./src/barplot_and_errorbars.jl"> <img src="./img/barplot_and_errorbars_code.svg"> </a> <img src="./img/barplot_and_errorbars.svg" width = "500"></p>
