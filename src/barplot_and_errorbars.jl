@@ -10,9 +10,7 @@ fig, ax,  = barplot(x, y; color = 1:n, width = 1,
     figure = (;resolution = (600,400)))
 errorbars!(x, y, yerr, color = 1:n, whiskerwidth = 10, linewidth = 2,
     colormap = Reverse(:linear_wcmr_100_45_c42_n256))
-alphabet = 'A':'J'
-xticks = string.(collect(alphabet))
-ax.xticks = (x, xticks)
+ax.xticks = (x, string.('A':'J'))
 hideydecorations!(ax; grid = false) 
 save("barplot_and_errorbars.png", fig, px_per_unit = 2)
 display(fig)

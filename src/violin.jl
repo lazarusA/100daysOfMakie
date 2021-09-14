@@ -17,9 +17,7 @@ violin!(fill(2.5, 1000), rand(Normal(0,2.5), 1000); color = :transparent,
 violin!(fill(4.5, 1000), rand(Normal(2,2), 1000); color = (:dodgerblue,0.1),
     strokewidth = 0.85, strokecolor = :dodgerblue, show_median = true,
     medianlinewidth = 3)
-alphabet = 'A':'D' 
-xticks = string.(collect(alphabet))
-ax.xticks = (1:n, xticks)
+ax.xticks = (1:n, string.('A':'D'))
 hideydecorations!(ax; grid = false) 
 save("violin.png", fig, px_per_unit = 2)
 display(fig)
