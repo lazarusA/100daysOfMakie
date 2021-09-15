@@ -21,6 +21,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Boxplot](#12-boxplot)|   |   |
 |[Band, confidence interval](#13-band-confidence-interval)|   |   |
 |[Barplot and errorbars](#14-barplot-and-errorbars)|   |   |
+|[Errorbars in x and y](#15-errorbars-in-x-and-y)|   |   |
 
 ## 1. Lines, hypotrochoid curve
 
@@ -77,3 +78,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 14. Barplot and errorbars
 
 <p align="center"><a href="./src/barplot_and_errorbars.jl"> <img src="./img/barplot_and_errorbars_code.svg"> </a> <img src="./img/barplot_and_errorbars.svg" width = "500"></p>
+
+## 15. Errorbars in x and y
+
+<p align="center"><a href="./src/errorbars.jl"> <img src="./img/errorbars_code.svg"> </a> <img src="./img/errorbars.svg" width = "500"></p>
