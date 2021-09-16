@@ -22,6 +22,8 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Band, confidence interval](#13-band-confidence-interval)|   |   |
 |[Barplot and errorbars](#14-barplot-and-errorbars)|   |   |
 |[Errorbars in x and y](#15-errorbars-in-x-and-y)|   |   |
+|[Stem plot](#16-stem-plot)|   |   |
+
 
 ## 1. Lines, hypotrochoid curve
 
@@ -82,3 +84,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 15. Errorbars in x and y
 
 <p align="center"><a href="./src/errorbars.jl"> <img src="./img/errorbars_code.svg"> </a> <img src="./img/errorbars.svg" width = "500"></p>
+
+## 16. Stem plot
+
+<p align="center"><a href="./src/stem.jl"> <img src="./img/stem_code.svg"> </a> <img src="./img/stem.svg" width = "500"></p>
