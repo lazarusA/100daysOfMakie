@@ -23,7 +23,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Barplot and errorbars](#14-barplot-and-errorbars)|   |   |
 |[Errorbars in x and y](#15-errorbars-in-x-and-y)|   |   |
 |[Stem plot](#16-stem-plot)|   |   |
-
+|[Helix, 3d Scatter](#17-helix-3d-scatters)|   |   |
 
 ## 1. Lines, hypotrochoid curve
 
@@ -88,3 +88,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 16. Stem plot
 
 <p align="center"><a href="./src/stem.jl"> <img src="./img/stem_code.svg"> </a> <img src="./img/stem.svg" width = "500"></p>
+
+## 17. Helix 3d scatters
+
+<p align="center"><a href="./src/helix.jl"> <img src="./img/helix_code.svg"> </a> <img src="./img/helix.png" width = "500"></p>
