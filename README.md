@@ -25,6 +25,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Stem plot](#16-stem-plot)|   |   |
 |[Helix, 3d Scatter](#17-helix-3d-scatters)|   |   |
 |[Band 3d bessel functions](#18-band-3d-bessel-functions)|   |   |
+|[Meshscatter](#19-meshscatter)|   |   |
 
 ## 1. Lines, hypotrochoid curve
 
@@ -97,3 +98,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 18. Band 3d bessel functions
 
 <p align="center"><a href="./src/band3d_bessel.jl"> <img src="./img/band3d_bessel_code.svg"> </a> <img src="./img/band3d_bessel.png" width = "500"></p>
+
+## 19. Meshscatter
+
+<p align="center"><a href="./src/meshscatter.jl"> <img src="./img/meshscatter_code.svg"> </a> <img src="./img/meshscatter.png" width = "500"></p>
