@@ -26,7 +26,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Helix, 3d Scatter](#17-helix-3d-scatters)|   |   |
 |[Band 3d bessel functions](#18-band-3d-bessel-functions)|   |   |
 |[Meshscatter](#19-meshscatter)|   |   |
-|[Surface torus](#20-surface torus)|   |   |
+|[Surface torus](#20-surface-torus)|   |   |
 
 
 ## 1. Lines, hypotrochoid curve
