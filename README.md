@@ -26,6 +26,8 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Helix, 3d Scatter](#17-helix-3d-scatters)|   |   |
 |[Band 3d bessel functions](#18-band-3d-bessel-functions)|   |   |
 |[Meshscatter](#19-meshscatter)|   |   |
+|[Surface torus](#20-surface torus)|   |   |
+
 
 ## 1. Lines, hypotrochoid curve
 
@@ -102,3 +104,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 19. Meshscatter
 
 <p align="center"><a href="./src/meshscatter.jl"> <img src="./img/meshscatter_code.svg"> </a> <img src="./img/meshscatter.png" width = "500"></p>
+
+## 20. Surface torus
+
+<p align="center"><a href="./src/surface_tori.jl"> <img src="./img/surface_tori_code.svg"> </a> <img src="./img/surface_tori.png" width = "500"></p>
