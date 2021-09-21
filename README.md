@@ -7,7 +7,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 
 |   |   |   |
 |---|---|---|
-|[Lines, hypotrochoid curve](#1-lines-hypotrochoid-curve)|   |   |
+|[Lines, hypotrochoid curve](#1-lines-hypotrochoid-curve)|[Meshes](#21-meshes)   |   |
 |[Scatters, bubbles](#2-scatters-bubbles)   |   |   |
 |[Scatterlines, archimedes spiral](#3-scatterlines-archimedes-spiral)|   |   |
 |[Linesegments](#4-linesegments)|   |   |
@@ -108,3 +108,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 20. Surface torus
 
 <p align="center"><a href="./src/surface_tori.jl"> <img src="./img/surface_tori_code.svg"> </a> <img src="./img/surface_tori.png" width = "500"></p>
+
+## 21. Meshes
+
+<p align="center"><a href="./src/meshes.jl"> <img src="./img/meshes_code.svg"> </a> <img src="./img/meshes.png" width = "500"></p>
