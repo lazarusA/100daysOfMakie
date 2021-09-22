@@ -8,7 +8,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |   |   |   |
 |---|---|---|
 |[Lines, hypotrochoid curve](#1-lines-hypotrochoid-curve)|[Meshes](#21-meshes)   |   |
-|[Scatters, bubbles](#2-scatters-bubbles)   |   |   |
+|[Scatters, bubbles](#2-scatters-bubbles)   |[Volume](#22-volume-potentials)  |   |
 |[Scatterlines, archimedes spiral](#3-scatterlines-archimedes-spiral)|   |   |
 |[Linesegments](#4-linesegments)|   |   |
 |[Polygons, ngons](#5-polygons-ngons)|   |   |
@@ -112,3 +112,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 21. Meshes
 
 <p align="center"><a href="./src/meshes.jl"> <img src="./img/meshes_code.svg"> </a> <img src="./img/meshes.png" width = "500"></p>
+
+## 22. Volume potentials
+
+<p align="center"><a href="./src/volume.jl"> <img src="./img/volume_code.svg"> </a> <img src="./img/volume.png" width = "500"></p>
