@@ -120,3 +120,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 23. Wireframe and Surface
 
 <p align="center"><a href="./src/wireframeSurface.jl"> <img src="./img/wireframeSurface_code.svg"> </a> <img src="./img/wireframeSurface.png" width = "500"></p>
+
+## 24. Streamplot
+
+<p align="center"><a href="./src/streamplot.jl"> <img src="./img/streamplot_code.svg"> </a> <img src="./img/streamplot.png" width = "500"></p>
