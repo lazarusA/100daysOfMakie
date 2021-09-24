@@ -10,7 +10,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Lines, hypotrochoid curve](#1-lines-hypotrochoid-curve)|[Meshes](#21-meshes)   |   |
 |[Scatters, bubbles](#2-scatters-bubbles)   |[Volume](#22-volume-potentials)  |   |
 |[Scatterlines, archimedes spiral](#3-scatterlines-archimedes-spiral)| [Wireframe and surface](#23-wireframe-and-surface)   |   |
-|[Linesegments](#4-linesegments)|   |   |
+|[Linesegments](#4-linesegments)|[Streamplot](#24-streamplot)   |   |
 |[Polygons, ngons](#5-polygons-ngons)|   |   |
 |[Barplot](#6-barplot)|   |   |
 |[Stairs](#7-stairs)|   |   |
