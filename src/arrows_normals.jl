@@ -11,7 +11,7 @@ normals = [Point3f(J(x, y, zz(x,y))...) for x in x for y in y]
 lengths = norm.(normals)
 
 set_theme!(theme_dark())
-fig, ax, = surface(x, y, zz.(x, y'); colormap = :viridis, transparency = true,
+fig, ax, = surface(x, y, zz.(x, y'); transparency = true,
     axis = (;type = Axis3, aspect = :data, perspectiveness = 0.5, 
     elevation = 0.34, azimuth = 2.11), 
     figure = (;resolution = (1200,600)))
