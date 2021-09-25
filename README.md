@@ -124,3 +124,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 24. Streamplot
 
 <p align="center"><a href="./src/streamplot.jl"> <img src="./img/streamplot_code.svg"> </a> <img src="./img/streamplot.png" width = "500"></p>
+
+## 25. Arrows normals
+
+<p align="center"><a href="./src/arrows_normals.jl"> <img src="./img/arrows_normals_code.svg"> </a> <img src="./img/arrows_normals.png" width = "500"></p>
