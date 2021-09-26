@@ -12,7 +12,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Scatterlines, archimedes spiral](#3-scatterlines-archimedes-spiral)| [Wireframe and surface](#23-wireframe-and-surface)   |   |
 |[Linesegments](#4-linesegments)|[Streamplot](#24-streamplot)   |   |
 |[Polygons, ngons](#5-polygons-ngons)|[Arrows, normals](#25-arrows-normals)|   |
-|[Barplot](#6-barplot)|   |   |
+|[Barplot](#6-barplot)|[Image transformations](#26-image)   |   |
 |[Stairs](#7-stairs)|   |   |
 |[Series](#8-series)|   |   |
 |[Density](#9-density)|   |   |
@@ -128,3 +128,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 25. Arrows normals
 
 <p align="center"><a href="./src/arrows_normals.jl"> <img src="./img/arrows_normals_code.svg"> </a> <img src="./img/arrows_normals.png" width = "500"></p>
+
+## 26. Image
+
+<p align="center"><a href="./src/image.jl"> <img src="./img/image_code.svg"> </a> <img src="./img/image.png" width = "500"></p>
