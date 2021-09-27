@@ -13,7 +13,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Linesegments](#4-linesegments)|[Streamplot](#24-streamplot)   |   |
 |[Polygons, ngons](#5-polygons-ngons)|[Arrows, normals](#25-arrows-normals)|   |
 |[Barplot](#6-barplot)|[Image transformations](#26-image)   |   |
-|[Stairs](#7-stairs)|   |   |
+|[Stairs](#7-stairs)|[Candle Stick](#27-candle-stick)|   |
 |[Series](#8-series)|   |   |
 |[Density](#9-density)|   |   |
 |[Histograms](#10-histograms)|   |   |
@@ -132,3 +132,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 26. Image
 
 <p align="center"><a href="./src/image.jl"> <img src="./img/image_code.svg"> </a> <img src="./img/image.png" width = "500"></p>
+
+## 27. Candle Stick
+
+<p align="center"><a href="./src/candleStick.jl"> <img src="./img/candleStick_code.svg"> </a> <img src="./img/candleStick.svg" width = "500"></p>
