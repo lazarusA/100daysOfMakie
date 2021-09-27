@@ -135,4 +135,4 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 
 ## 27. Candle Stick
 
-<p align="center"><a href="./src/candleStick.jl"> <img src="./img/candleStick_code.svg"> </a> <img src="./img/candleStick.svg" width = "500"></p>
+<p align="center"><a href="./src/condleStick.jl"> <img src="./img/condleStick_code.svg"> </a> <img src="./img/condleStick.svg" width = "500"></p>
