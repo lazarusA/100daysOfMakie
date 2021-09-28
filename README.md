@@ -14,7 +14,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Polygons, ngons](#5-polygons-ngons)|[Arrows, normals](#25-arrows-normals)|   |
 |[Barplot](#6-barplot)|[Image transformations](#26-image)   |   |
 |[Stairs](#7-stairs)|[Candle Stick](#27-candle-stick)|   |
-|[Series](#8-series)|   |   |
+|[Series](#8-series)|[contour3d, contour, lines, wireframe](#28-contour3d-contour-lines-wireframe)   |   |
 |[Density](#9-density)|   |   |
 |[Histograms](#10-histograms)|   |   |
 |[Violins](#11-violins)|   |   |
@@ -136,3 +136,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 27. Candle Stick
 
 <p align="center"><a href="./src/condleStick.jl"> <img src="./img/condleStick_code.svg"> </a> <img src="./img/condleStick.svg" width = "500"></p>
+
+## 28. contour3d, contour, lines, wireframe
+
+<p align="center"><a href="./src/topoLines.jl"> <img src="./img/topoLines_code.svg"> </a> <img src="./img/topoLines.png" width = "500"></p>
