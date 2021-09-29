@@ -15,7 +15,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Barplot](#6-barplot)|[Image transformations](#26-image)   |   |
 |[Stairs](#7-stairs)|[Candle Stick](#27-candle-stick)|   |
 |[Series](#8-series)|[contour3d, contour, lines, wireframe](#28-contour3d-contour-lines-wireframe)   |   |
-|[Density](#9-density)|   |   |
+|[Density](#9-density)|[Contourf](#29-contourf)   |   |
 |[Histograms](#10-histograms)|   |   |
 |[Violins](#11-violins)|   |   |
 |[Boxplot](#12-boxplot)|   |   |
@@ -140,3 +140,7 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 ## 28. contour3d, contour, lines, wireframe
 
 <p align="center"><a href="./src/topoLines.jl"> <img src="./img/topoLines_code.svg"> </a> <img src="./img/topoLines.png" width = "500"></p>
+
+## 28. Contourf
+
+<p align="center"><a href="./src/contourf.jl"> <img src="./img/contourf_code.svg"> </a> <img src="./img/contourf.png" width = "500"></p>
