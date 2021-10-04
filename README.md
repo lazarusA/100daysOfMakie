@@ -16,9 +16,9 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Stairs](#7-stairs)|[Candle Stick](#27-candle-stick)|   |
 |[Series](#8-series)|[contour3d, contour, lines, wireframe](#28-contour3d-contour-lines-wireframe)|   |
 |[Density](#9-density)|[Contourf](#29-contourf)|   |
-|[Histograms](#10-histograms)|[Contourf](#30-band-horizontal)   |   |
-|[Violins](#11-violins)|[Contourf](#31-stripped-patterns)   |   |
-|[Boxplot](#12-boxplot)|[Contourf](#32-confusion-matrix)   |   |
+|[Histograms](#10-histograms)|[Band Horizontal](#30-band-horizontal)   |   |
+|[Violins](#11-violins)|[Stripped Patterns](#31-stripped-patterns)   |   |
+|[Boxplot](#12-boxplot)|[Confusion Matrix](#32-confusion-matrix)   |   |
 |[Band, confidence interval](#13-band-confidence-interval)|   |   |
 |[Barplot and errorbars](#14-barplot-and-errorbars)|   |   |
 |[Errorbars in x and y](#15-errorbars-in-x-and-y)|   |   |
