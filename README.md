@@ -14,11 +14,11 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 |[Polygons, ngons](#5-polygons-ngons)|[Arrows, normals](#25-arrows-normals)|   |
 |[Barplot](#6-barplot)|[Image transformations](#26-image)   |   |
 |[Stairs](#7-stairs)|[Candle Stick](#27-candle-stick)|   |
-|[Series](#8-series)|[contour3d, contour, lines, wireframe](#28-contour3d-contour-lines-wireframe)   |   |
-|[Density](#9-density)|[Contourf](#29-contourf)   |   |
-|[Histograms](#10-histograms)|   |   |
-|[Violins](#11-violins)|   |   |
-|[Boxplot](#12-boxplot)|   |   |
+|[Series](#8-series)|[contour3d, contour, lines, wireframe](#28-contour3d-contour-lines-wireframe)|   |
+|[Density](#9-density)|[Contourf](#29-contourf)|   |
+|[Histograms](#10-histograms)|[Contourf](#30-band-horizontal)   |   |
+|[Violins](#11-violins)|[Contourf](#31-stripped-patterns)   |   |
+|[Boxplot](#12-boxplot)|[Contourf](#32-confusion-matrix)   |   |
 |[Band, confidence interval](#13-band-confidence-interval)|   |   |
 |[Barplot and errorbars](#14-barplot-and-errorbars)|   |   |
 |[Errorbars in x and y](#15-errorbars-in-x-and-y)|   |   |
@@ -141,6 +141,18 @@ Plotting scripts written with Makie and formatted with [Carbon](https://carbon.n
 
 <p align="center"><a href="./src/topoLines.jl"> <img src="./img/topoLines_code.svg"> </a> <img src="./img/topoLines.png" width = "500"></p>
 
-## 28. Contourf
+## 29. Contourf
 
 <p align="center"><a href="./src/contourf.jl"> <img src="./img/contourf_code.svg"> </a> <img src="./img/contourf.png" width = "500"></p>
+
+## 30. Band Horizontal
+
+<p align="center"><a href="./src/bandHorizontal.jl"> <img src="./img/bandHorizontal_code.svg"> </a> <img src="./img/bandHorizontal.png" width = "500"></p>
+
+## 31. Stripped Patterns
+
+<p align="center"><a href="./src/strippedPatterns.jl"> <img src="./img/strippedPatterns_code.svg"> </a> <img src="./img/strippedPatterns.png" width = "500"></p>
+
+## 32. Confusion Matrix
+
+<p align="center"><a href="./src/confusionMatrix.jl"> <img src="./img/confusionMatrix_code.svg"> </a> <img src="./img/confusionMatrix.png" width = "500"></p>
